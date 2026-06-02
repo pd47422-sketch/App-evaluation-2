@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Evaluación Docente",
+  "description": "Plataforma interactiva de evaluación docente para primaria, secundaria y preparatoria, con rúbricas interactivas, reportes PDFs/HTML, comentarios de alumnos y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
